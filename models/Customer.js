@@ -66,11 +66,11 @@ export async function getCusRoomTimes(req){
     const data = await client.db('hallBooking')
         .collection('customer')
         .aggregate([
-            {
-                $match:{
-                    cusName: 'Avinash'
-                }
-            },
+            // {
+            //     $match:{
+            //         cusName: req.body.name || ''
+            //     }
+            // },
             {
                 $lookup:{
                     from: 'room',
