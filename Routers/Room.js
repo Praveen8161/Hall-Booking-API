@@ -1,5 +1,5 @@
 import express from 'express';
-import { getRooms, addRoom, allCusRoom } from '../models/room.js';
+import { getRooms, addRoom, allCusRoom } from '../models/Room.js';
 
 // Initializing router
 const router = express.Router();
