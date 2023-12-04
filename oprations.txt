@@ -1,0 +1,46 @@
+Creating a Room with
+    Number of Seats available
+    amenities in room
+    Price for 1 Hour
+Booking a Room with
+    Customer Name
+    Date
+    Start Time
+    End Time
+    Room ID
+    Booking Date
+List all customers with booked Data with
+    Customer name
+    Room Name
+    Date
+    Start Tme
+    End Time
+List all Rooms with Booked Data with
+    Room Name
+    Booked Status
+    customer name
+    Date
+    Start Time
+    End Time
+List how many times a customer has booked the room with below details
+    Customer name
+    Room Name
+    Date
+    Start Time
+    End Time
+    Booking id
+    Booking date
+    Booking status
+
+Task
+    1. How to write an API ?
+        Create an Express server.
+        Create an endpoint and write your logic.
+        Can use local variables to store data.
+        Write API documentation in postman docs.
+    2. Any specifications and constraints ?
+        Back-End: Node Js
+        Basic requirements:
+        While booking app should not allow booking an already booked room on the same date and
+        time.
+        The code should be clean with proper variable, function naming and proper comments.
