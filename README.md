@@ -8,7 +8,7 @@
     Hall Booking API used to manage all the task realated to Hall Booking
 
 # API Documentation
-    -[Click Here](https://documenter.getpostman.com/view/31335509/2s9YeLXUS4)
+    - [Click Here](https://documenter.getpostman.com/view/31335509/2s9YeLXUS4)
 
 # Endpoints
     Base URL - https://hall-booking-q9ll.onrender.com/
