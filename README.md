@@ -1,19 +1,19 @@
-## Hall Booking API
-# Technologies Used
+# Hall Booking API
+## Technologies Used
     - NodeJS
     - Express
     - MongoDB
 
-# Overview
+## Overview
     Hall Booking API used to manage all the task realated to Hall Booking
 
-# API Documentation
-    - [Click Here](https://documenter.getpostman.com/view/31335509/2s9YeLXUS4)
+## API Documentation
+    -[Click Here](https://documenter.getpostman.com/view/31335509/2s9YeLXUS4)
 
-# Endpoints
+## Endpoints
     Base URL - https://hall-booking-q9ll.onrender.com/
 
-# POST Request
+## POST Request
     1.Adding a new Room
         - /room/add
         - If the Room ID already exist it will throw an Error
@@ -22,7 +22,7 @@
         - /customer/add
         - If the Room ID already Booked for that date and time it will throw an Error
 
-# GET Request
+## GET Request
     1.Get All the rooms details
         - /room/all
 
