@@ -14,7 +14,7 @@
 ## Endpoints
   Base URL - https://hall-booking-q9ll.onrender.com/
 
-## POST Request
+## POST Request 
     1.Adding a new Room
         - /room/add
         - If the Room ID already exist it will throw an Error
